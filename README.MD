@@ -1,6 +1,6 @@
 
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK Gerado por I.A.s.
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
@@ -12,7 +12,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Bing Images Create](https://www.bing.com/images/create)
-- [Leonardo.AI] (https://app.leonardo.ai/image-generation )
+- [Leonardo AI] (https://app.leonardo.ai/image-generation )
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -56,7 +56,6 @@ Bing Images Create：
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
