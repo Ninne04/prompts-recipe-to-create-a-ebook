@@ -4,6 +4,12 @@
     width="300"
 />
 </p>
+<p align="center">
+  <a href="https://github.com/Ninne04/prompts-recipe-to-create-a-ebook/blob/main/output/EbookSaboresM%C3%A1gicos.pdf">
+    Acesse o e-book aqui
+  </a>
+</p>
+
 
 # Projeto EBOOK Gerado por I.A.s.
 
