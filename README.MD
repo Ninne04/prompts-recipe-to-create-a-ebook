@@ -1,4 +1,9 @@
-
+<p align="center">
+<img 
+    src="./assets/EbookCapa.PNG"
+    width="300"
+/>
+</p>
 
 # Projeto EBOOK Gerado por I.A.s.
 
@@ -12,7 +17,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Bing Images Create](https://www.bing.com/images/create)
-- [Leonardo AI] (https://app.leonardo.ai/image-generation )
+- [Leonardo AI](https://app.leonardo.ai/image-generation )
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
